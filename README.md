@@ -1,4 +1,4 @@
-<img align="center" alt="Hello"  width="1000"  src="https://cdn.pixabay.com/animation/2022/09/09/08/30/08-30-56-693_512.gif">
+<img align="center" alt="Hello"  width="1000"  src="">
 <h1 align="center">Hi 👋, I'm Phuong-MT</h1>
 <h3 align="center">University student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
